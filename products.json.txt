@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": Phenol
+    "description": "p5566",
+    "price": 250
+  },
+  {
+    "id": 2,
+    "title": Lithium Formate
+    "description": "lithium",
+    "price": 300
+  },
+  {
+    "id": 3,
+    "title": "Trizma hydrochloride",
+    "description": "Trizma hydrochlride T1503",
+    "price": 150
+  },
+  {
+    "id": 4,
+    "title": "Abetic acid",
+    "description": "39468-M",
+    "price": 100
+  }
+]
